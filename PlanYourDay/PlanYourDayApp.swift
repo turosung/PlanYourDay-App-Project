@@ -7,11 +7,21 @@
 
 import SwiftUI
 
+/*
+ MVVM Architecture
+ 
+ Model - this is our data point
+ View - UI
+ ViewModel - manages Models for View 
+ */
+
 @main
 struct PlanYourDayApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationView {
+                ListView()
+            }
         }
     }
 }
