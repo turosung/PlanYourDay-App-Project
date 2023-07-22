@@ -14,6 +14,7 @@
 		A834F8A82A54D876002F06D1 /* ListRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A834F8A72A54D876002F06D1 /* ListRowView.swift */; };
 		A834F8AA2A54E04B002F06D1 /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A834F8A92A54E04B002F06D1 /* AddView.swift */; };
 		A834F8AD2A576F71002F06D1 /* ItemModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A834F8AC2A576F71002F06D1 /* ItemModel.swift */; };
+		A87AB2512A69E87700CE1118 /* NoItemsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A87AB2502A69E87700CE1118 /* NoItemsView.swift */; };
 		A87FB1AB2A5B64A400780D91 /* ListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A87FB1AA2A5B64A400780D91 /* ListViewModel.swift */; };
 /* End PBXBuildFile section */
 
@@ -26,6 +27,7 @@
 		A834F8A72A54D876002F06D1 /* ListRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListRowView.swift; sourceTree = "<group>"; };
 		A834F8A92A54E04B002F06D1 /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
 		A834F8AC2A576F71002F06D1 /* ItemModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemModel.swift; sourceTree = "<group>"; };
+		A87AB2502A69E87700CE1118 /* NoItemsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoItemsView.swift; sourceTree = "<group>"; };
 		A87FB1AA2A5B64A400780D91 /* ListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -83,6 +85,7 @@
 				A834F8A52A54D35A002F06D1 /* ListView.swift */,
 				A834F8A72A54D876002F06D1 /* ListRowView.swift */,
 				A834F8A92A54E04B002F06D1 /* AddView.swift */,
+				A87AB2502A69E87700CE1118 /* NoItemsView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -178,6 +181,7 @@
 				A87FB1AB2A5B64A400780D91 /* ListViewModel.swift in Sources */,
 				A834F8972A54BB91002F06D1 /* PlanYourDayApp.swift in Sources */,
 				A834F8A62A54D35A002F06D1 /* ListView.swift in Sources */,
+				A87AB2512A69E87700CE1118 /* NoItemsView.swift in Sources */,
 				A834F8A82A54D876002F06D1 /* ListRowView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
