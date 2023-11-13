@@ -4,7 +4,3 @@ You can also check completed tasks or delete them.<br>
 ![PlanningAppDemo](https://github.com/turosung/PlanYourDay-App-Project/assets/82477640/6de43e8d-e37b-4632-8767-503c4b5d039d)
 
 
-![Demo app](https://github.com/turosung/PlanYourDay-App-Project/assets/82477640/f05e288c-93dd-4133-aa7b-ee2bfc9fe8a5)
-
-
-
